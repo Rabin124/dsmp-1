@@ -1,0 +1,5 @@
+learning how to print hello world function
+variables
+dynamic and static variables
+learning keywords and literals
+learning typecasting
